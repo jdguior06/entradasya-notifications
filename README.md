@@ -1,5 +1,7 @@
 # Notifications
 
+[![CI](https://github.com/jdguior06/entradasya-notifications/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-notifications/actions/workflows/ci.yml)
+
 Servicio interno de confirmaciones de compra de EntradasYa. Usa el puerto local 3006 y entrega correos de texto por SMTP a Mailpit. Mailpit muestra los mensajes en http://localhost:8025.
 
 ## Requisitos
